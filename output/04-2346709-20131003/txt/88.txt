@@ -1,0 +1,11 @@
+Length(R): 301.20
+Length(L): 243.36
+Dev_LenVF: 0.21
+Area(R): 121.00
+Area(L): 158.00
+Dev_AreaVF: 0.27
+Curvature(R): 1.03
+Curvature(L): 0.40
+Area(Glot): 31.50
+Angle(Glot): 1.10
+Symmetry(VF): 27.86
